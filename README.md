@@ -8,6 +8,6 @@
            species: "maybeHuman?",
            level: 26,
            background: "biology", 
-           languages: ["Norwegian", "English", "HTML", "CSS", "javascript", "SQL", "React"],
+           languages: ["norwegian", "english", "HTML", "CSS", "javascript", "SQL", "react"],
            hobbies: ["animalLover", "music", "gaming", "D&D", "hiking"], 
           }
