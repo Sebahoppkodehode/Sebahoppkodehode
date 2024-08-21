@@ -11,7 +11,7 @@
   const Sebastian = {
            class: "junior",
            species: "maybeHuman?",
-           level: 26,
+           level: 27,
            background: "biology", 
            languages: ["norwegian", "english", "HTML", "CSS", "javascript", "SQL", "react"],
            hobbies: ["animalLover", "music", "gaming", "D&D", "hiking"], 
